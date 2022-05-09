@@ -1,0 +1,5 @@
+:root{
+    --primery-color: var(rgb(255, 255, 255));
+    --secondery-color: var(rgb(0, 0, 0));
+    --third-color:var(rgb(128, 128, 128));
+}
